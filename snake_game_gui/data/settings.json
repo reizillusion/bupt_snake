@@ -1,0 +1,9 @@
+{
+    "baseStepMs": 200,
+    "lastPlayerName": "Player",
+    "musicVolume": 60,
+    "selectedN": 8,
+    "sfxVolume": 80,
+    "showGrid": false,
+    "tileSize": 32
+}

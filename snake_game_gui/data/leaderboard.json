@@ -1,0 +1,82 @@
+[
+    {
+        "finishedAt": "2026-06-15 20:19:39",
+        "length": 23,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "Player",
+        "score": 50
+    },
+    {
+        "finishedAt": "2026-06-15 20:30:11",
+        "length": 16,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "Player",
+        "score": 30
+    },
+    {
+        "finishedAt": "2026-06-15 20:20:28",
+        "length": 7,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "Player",
+        "score": 10
+    },
+    {
+        "finishedAt": "2026-06-15 20:30:39",
+        "length": 18,
+        "mode": "endless",
+        "nValue": 8,
+        "name": "Player",
+        "score": 0
+    },
+    {
+        "finishedAt": "2026-06-15 20:23:08",
+        "length": 10,
+        "mode": "endless",
+        "nValue": 8,
+        "name": "Player",
+        "score": 0
+    },
+    {
+        "finishedAt": "2026-06-15 20:20:14",
+        "length": 6,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "Player",
+        "score": 0
+    },
+    {
+        "finishedAt": "2026-06-15 20:19:12",
+        "length": 5,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "d",
+        "score": 0
+    },
+    {
+        "finishedAt": "2026-06-15 20:22:46",
+        "length": 4,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "Player",
+        "score": 0
+    },
+    {
+        "finishedAt": "2026-06-15 20:19:54",
+        "length": 4,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "Player",
+        "score": 0
+    },
+    {
+        "finishedAt": "2026-06-15 20:18:56",
+        "length": 3,
+        "mode": "classic",
+        "nValue": 8,
+        "name": "1",
+        "score": 0
+    }
+]
